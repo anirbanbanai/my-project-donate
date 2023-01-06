@@ -1,0 +1,71 @@
+.nav{
+    text-align: center;
+    background-image: url('/images/donation13.jpg');
+    color: azure;
+    height: 500px;
+c
+}
+.h-sub{
+    font-size: 55px;
+    font-weight: 800;
+    padding-top: 60px;
+
+}
+.h-p-sub{
+    font-size: 20px;
+}
+.h-title{
+    background-color: orange;
+    padding: 15px 30px;
+    color:blueviolet;
+    font-size: 35px;
+}
+.sec{
+    text-align: center;
+    padding-top: 45px;
+}
+.sec-sub{
+    font-size: 45px;
+}
+.sec-title{
+    font-size: 20px;
+}
+.my-c{
+    font-size: 35px;
+    display: flex;
+   ;
+}
+.sub-2{
+    background-color: rgba(163, 15, 15, 0.87);
+    border-radius: 20px solid red;
+    border: red;
+}
+ul li{
+    list-style: none;
+    margin-left: 160px;
+    background-color: wheat;
+    padding:15px 30px;
+}
+.hr{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.h-t{
+    font-size: 35px;
+    font-weight: 600;
+    padding: 4px 8px;
+    background-color: lightsalmon;
+}
+
+.nv-f{
+    text-align: center;
+    margin-top: 200px;
+}
+.nv-t{
+    font-size: 45px;
+    font-weight: 800;
+}
+.nv-p{
+    font-size: 25px;
+
+}
