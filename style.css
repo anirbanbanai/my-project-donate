@@ -69,3 +69,64 @@ ul li{
     font-size: 25px;
 
 }
+.container{
+    display: flex;
+    padding-left: 200px;
+    justify-content: 30px;
+}
+.info{
+    font-size: 45px;
+    font-weight: 800;
+    padding: 30 50;
+    gap: 30px;
+}
+.in-ses{
+    background-color: aqua;
+    padding: 30px 50px;
+}
+.in-ses2{
+    background-color: antiquewhite;
+    padding: 30px 50px;
+}
+.in-ses3{
+    background-color: aliceblue;
+    padding: 30px 50px;
+}
+/* section1 */
+
+.my-section1{
+display: flex;
+gap: 40px;
+padding-top: 200px;
+}
+.my-section1-title{
+    font-size: 35px;
+    font-weight: 900;
+}
+.btn-section1{
+     background-color: rgba(243, 82, 82, 0.411);
+     font-size: 25px;
+     padding: 30px 50px;
+}
+/* section2 */
+.section2{
+    display: flex;
+    gap: 40px;
+}
+/* section3 */
+.section3{
+    
+    padding-top: 300px;
+}
+.section3-d{
+  display: flex;
+  text-align: center;
+}
+
+.for-email{
+    background-color: lightsalmon;
+    padding: 30px 50px;
+    box-size:;
+    margin-left: 800px;
+    margin-right: 800px;
+}
